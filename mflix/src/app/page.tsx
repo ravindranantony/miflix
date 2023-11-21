@@ -28,6 +28,7 @@ export default function Home() {
             </Link>
           </nav>
         </div>
+        
         <div className="flex items-center gap-2">
           <Link className="text-md hover:underline" href="#">
             Shop
@@ -41,7 +42,7 @@ export default function Home() {
           alt="Carousel Image 1"
           className="rounded-md object-cover"
           height="600"
-          src="/placeholder.svg"
+          src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
           style={{
             aspectRatio: "1000/600",
             objectFit: "cover",
@@ -52,7 +53,7 @@ export default function Home() {
           alt="Carousel Image 2"
           className="rounded-md object-cover"
           height="600"
-          src="/placeholder.svg"
+          src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
           style={{
             aspectRatio: "1000/600",
             objectFit: "cover",
@@ -63,7 +64,7 @@ export default function Home() {
           alt="Carousel Image 3"
           className="rounded-md object-cover"
           height="600"
-          src="/placeholder.svg"
+          src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
           style={{
             aspectRatio: "1000/600",
             objectFit: "cover",
@@ -78,7 +79,7 @@ export default function Home() {
               alt="Thumbnail 1"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="images/movie2.jpeg"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -102,7 +103,7 @@ export default function Home() {
               alt="Thumbnail 2"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -126,7 +127,7 @@ export default function Home() {
               alt="Thumbnail 3"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -150,7 +151,7 @@ export default function Home() {
               alt="Thumbnail 4"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -174,7 +175,7 @@ export default function Home() {
               alt="Thumbnail 5"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -198,7 +199,7 @@ export default function Home() {
               alt="Thumbnail 6"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -222,7 +223,7 @@ export default function Home() {
               alt="Thumbnail 7"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -246,7 +247,7 @@ export default function Home() {
               alt="Thumbnail 8"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -270,7 +271,7 @@ export default function Home() {
               alt="Thumbnail 9"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -294,7 +295,7 @@ export default function Home() {
               alt="Thumbnail 10"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -318,7 +319,7 @@ export default function Home() {
               alt="Thumbnail 11"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
@@ -342,7 +343,7 @@ export default function Home() {
               alt="Thumbnail 12"
               className="rounded-md object-cover transition-opacity group-hover:opacity-50"
               height="375"
-              src="/images/movie.png"
+              src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg"
               style={{
                 aspectRatio: "312/375",
                 objectFit: "cover",
